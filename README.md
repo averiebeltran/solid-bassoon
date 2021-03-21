@@ -18,6 +18,3 @@ THEN I am able to successfully create, update, and delete data in my database id
 
 ## Walkthrough Video Link
 https://drive.google.com/file/d/1w0YMeVaCT8r1nFrgTdpO9WDzw21PIivq/view
-
-## Walkthrough Video
-<iframe src="https://drive.google.com/file/d/1w0YMeVaCT8r1nFrgTdpO9WDzw21PIivq/preview" width="640" height="480"></iframe>
